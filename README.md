@@ -1,6 +1,6 @@
 # blisko.skin — biblioteka kosmetyków
 
-Prywatna, modułowa biblioteka kosmetyków blisko.skin. Aplikacja pomaga katalogować produkty, notować informacje o składzie, dopasowaniu i odczuciach sensorycznych oraz odróżniać własne obserwacje od roboczych analiz.
+Prywatna, modułowa biblioteka kosmetyków blisko.skin. Aplikacja pomaga katalogować produkty, notować informacje o składzie, dopasowaniu i odczuciach sensorycznych oraz odróżniać własne obserwacje od roboczych analiz. Produkty można filtrować według typu cery, problemu, zapachu, konsystencji, ceny i oznaczeń ostrożności.
 
 ## Uruchomienie lokalne
 
